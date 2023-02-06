@@ -1,0 +1,3 @@
+/media/bogdan/SSD/C++_ML/Decision_Tree_Binary_Points/build/CMakeFiles/main.dir
+/media/bogdan/SSD/C++_ML/Decision_Tree_Binary_Points/build/CMakeFiles/edit_cache.dir
+/media/bogdan/SSD/C++_ML/Decision_Tree_Binary_Points/build/CMakeFiles/rebuild_cache.dir
